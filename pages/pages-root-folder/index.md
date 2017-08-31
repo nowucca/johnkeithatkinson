@@ -45,3 +45,9 @@ permalink: /index.html
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div> -->
+
+# Biography
+
+John Keith Atkinson is a philologue living in Brisbane Australia.
+THis site captures biographical and research information.
+
