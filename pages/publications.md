@@ -28,7 +28,7 @@ John Keith Atkinson has published books, book chapters, journal articles and con
 <br/>
 
 Atkinson, J. Keith, (1996).
-[_Boeces, de Consolacion. Édition critique d'après le manuscrit Paris, Bibliothèque nationale, fr. 1096, avec Introduction, Variantes, Notes, Glossaires_](),
+[_Boeces, de Consolacion. Édition critique d'après le manuscrit Paris, Bibliothèque nationale, fr. 1096, avec Introduction, Variantes, Notes, Glossaires_](http://bit.ly/2k9ghpQ){:target="_blank"}&nbsp;<sup>**(extract)**</sup>,
 Tübingen: Niemeyer, 1996. (Beihefte zur Zeitschrift für romanische Philologie, 277), 200pp.
 (Review article : Gilles Roques, in _Revue de linguistique romane_, 61 (1997), pp. 289-290).
 
@@ -79,8 +79,8 @@ presented at an International Seminar on the Early Middle Ages,
 Australian National University, Canberra, April, 1978.)
 
 Atkinson, J. Keith, (1981).
-[«Le dialecte du Boèce de Troyes 898; à propos d'une édition récente»](),
-Romania 102, pp. 250-259.
+[«Le dialecte du Boèce de Troyes 898; à propos d'une édition récente»](http://bit.ly/2ye5bWH){:target="_blank"}&nbsp;<sup>**(full)**</sup>,
+_Romania_ 102, pp. 250-259.
 
 Atkinson, J. Keith, (1984).
 [«Les Travaux d'Hercule moralisés au XIVe siècle»](),
@@ -89,7 +89,7 @@ Nice, Les Belles Lettres, pp. 41-50.
 (Annales de la Faculté des Lettres et Sciences Humaines de Nice).
 
 Atkinson, J. Keith, et Glynnis M. Cropp, (1985).
-[«Trois traductions de la Consolatio philosophiae de Boèce»](),
+[«Trois traductions de la Consolatio philosophiae de Boèce»](http://bit.ly/2kbjBkj){:target="_blank"}&nbsp;<sup>**(full)**</sup>,
 _Romania_ 106, pp. 198-232.
 
 Atkinson, J. Keith, (1987).
@@ -98,7 +98,7 @@ in A. Minnis (ed.), _The Medieval Boethius_, Cambridge, Boydell and Brewer, pp. 
 
 
 Atherton, B. et J. K. Atkinson, (1992).
-[«Les manuscrits du _Roman de Fortune et Félicité_»](),
+[«Les manuscrits du _Roman de Fortune et Félicité_»](http://bit.ly/2xNb9MP){:target="_blank"}&nbsp;<sup>**(full)**</sup>,
 _Revue d'Histoire des Textes_ 22, pp. 169-251.
 Pages 172-224 are totally my responsibility; the introduction and
 actual 'Classement des manuscrits' was written by Béatrice Atherton,
@@ -114,7 +114,7 @@ Atkinson, J. Keith, (1996).
 _Parergon_ 13 (2), pp. 1-20.
 
 Atkinson, J. Keith, (1998).
-[«The French and Italian translations of Boethius’ _Consolatio philosophiae_ by Bonaventura da Demena»](),
+[«The French and Italian translations of Boethius’ _Consolatio philosophiae_ by Bonaventura da Demena»](http://bit.ly/2xFMqLj){:target="_blank"}&nbsp;<sup>**(full)**</sup>,
 _Carmina Philosophiae, Journal of the International Boethius Society_ 7, pp. 67-80.
 
 Atkinson, J. Keith, (1999).
@@ -159,6 +159,30 @@ Atkinson, J. Keith, (2011).
 [«La traduction wallonne de la ‹Consolation philosophiae› de Boèce, le ‹Boece en rime›, 3<sup>e</sup> qu. XIV<sup>e</sup> siècle, de Jean de Thys: analyses lexicologiques, scriptologiques et philologiques»](),
 _Revue de linguistique romane_ 75, pp. 469-515.
 
+> This unedited medieval French verse translation of the Latin philosophical
+> text, the _Consolatio philosophiae_, exists in two manuscripts, only one of
+> which is complete. It takes its place amongst some 14 different French
+> translations of the same Latin text. Although this translation has been located
+> in a general way as from the North of France, this article establishes the
+> text as from the Walloon region, and more precisely from the region of Liège.
+> This location has been established on the basis of items of regional lexicology
+> (some 70 regional words are examined in detail), of certain unique rhymes and
+> certain conservative features of the morphology (verb and noun forms).
+> This location has allowed the writer to attribute an author to this text,
+> a text regarded until now as anonymous. The name of the author would be
+> Jehan de Thys; the writer was able to identify Thys as a village in the region
+> of Liège.
+>
+> Although the two manuscripts date from later in the 14th century, the date
+>  of the original has remained problematic. On the basis of dating the first
+>  appearances of some 55 lexical items, quite recently created in French by
+>  contemporary translators, and yet used also by this translator, the author
+>  poses the third quarter of the 14th century as the most probable date of
+>  the original, written therefore just a few years before the first manuscript,
+>  which dates from 1383. Over and above these, the writer has identified no
+>  fewer than 17 words that appear in this text for the first time in the French
+>  language.
+
 Atkinson, J. Keith and Glynnis M. Cropp, (2011).
 [_Translations médiévales. Cinq siècles de traductions en français au Moyen Âge._]()
 _Étude et Répertoire_, sous la direction de Claudio Galderisi avec la collaboration de Vladimir Agrigoroaei, Turnhout, Brepols, 2011,
@@ -184,7 +208,7 @@ Atkinson, John Keith, (1969).
 _PMLA_ 84, pp. 328-335.
 
 Atkinson, J. Keith, (1979).
-[«Deux interprétations de la chanson _Chanterai por mon corage_»](),
+[«Deux interprétations de la chanson _Chanterai por mon corage_»](http://bit.ly/2xN4mm4){:target="_blank"}&nbsp;<sup>**(full)**</sup>,
 _Senefiance_ No. 7, pp. 35-45.
 _Mélanges de langue et littérature françaises du moyen âge offerts à Pierre Jonin_.
 
